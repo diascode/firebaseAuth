@@ -1,5 +1,7 @@
 {
   "name": "authFire",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
